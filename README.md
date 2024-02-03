@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @ArthurBick
-- 👀 I’m interested in .NET Core, C#c SQL Server and React Native
-- 🌱 I’m currently learning React.js Essential Training
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ArthurBick- 🌱 I’m planning to study WordPress with PHP and MySQL to create a website to display my granddaughter's artistic talents
 
-<!---
-ArthurBick/ArthurBick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
